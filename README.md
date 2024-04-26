@@ -5,8 +5,8 @@
 
 This is just a little snippet of a Mern stack california speed card game. I was apart of a team of 4 software engineers and my role in
 the creation of the game was to do the core game logic. I handled the win condition, creating the stages of the game, checking to see if 
-there was a match on the board, and populating the MongoDB with a username,score, and a win/lose tag. Click the following link to see the 
-full code.
+there was a match on the board, and populating the MongoDB with a username,score, and a win/lose tag with a route in the backend. Click 
+the following link to see the full code.
 
 https://github.com/Edward2580/Portfolio/tree/main/CS3750_Speed-main
 
@@ -22,5 +22,9 @@ https://github.com/Edward2580/Portfolio/tree/main/CS3750_Hangman-main
 
 
 ![Untitled video - Made with Clipchamp (3)](https://github.com/Edward2580/Portfolio/assets/108019228/e904cd60-6e28-4571-b819-79e95301abf1)
+
+This is just a little snippet of an online banking app using the MERN stack.My contribution to this project was the process to either deposit
+or withdraw money to and from a bank account.I created my own routes in the back end to update the values in the MongoDB.I also did the complete
+frontend for it
 
 https://github.com/Edward2580/Portfolio/tree/main/CS3750_BankingApp-main 
